@@ -18,3 +18,4 @@ I am a postgraduate student from [Lab for Data Science](http://data-science.ustc
 - 2021.11-2021.12  Real time monitoring system for tunneling machines based on Qingyun HBase service
 - 2022.12-2023.05  Research and Application of Heterogeneous Graph Network Representation Learning Methods
 
+[Email](weishi:576653642@qq.com) / [Github](https://github.com/WeiShi1011) / [Wechat](../images/wechat.png) / [QQ](../images/qq.png)

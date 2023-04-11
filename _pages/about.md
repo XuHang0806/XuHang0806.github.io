@@ -19,4 +19,4 @@ I am a postgraduate student from [Lab for Data Science](http://data-science.ustc
 - 2022.12-2023.05   Research and Application of Heterogeneous Graph Network Representation Learning Methods
 
 ## Contact
-[Email](576653642@qq.com) / [Github](https://github.com/WeiShi1011) / [Wechat](../images/wechat.png) / [QQ](../images/qq.png)
+[Email](mailto:576653642@qq.com) / [Github](https://github.com/WeiShi1011) / [Wechat](../images/wechat.png) / [QQ](../images/qq.png)

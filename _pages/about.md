@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student from [Lab for Data Science](http://data-science.ustc.edu.cn/main.htm), USTC(https://ustc.edu.cn/), advised by [Prof. Xiangnan He](https://hexiangnan.github.io/) and [Prof. Xiang Wang](https://xiangwang1223.github.io/). My research is focus on social cybersecurity. If you are interested at me, please feel free to contact me.
+I am a postgraduate student from [Lab for Data Science](http://data-science.ustc.edu.cn/main.htm), [USTC](https://ustc.edu.cn/), advised by [Prof. Xiangnan He](https://hexiangnan.github.io/) and [Prof. Xiang Wang](https://xiangwang1223.github.io/). My research is focus on social cybersecurity. If you are interested at me, please feel free to contact me.
 
 ## Educational experience
 - 2019.09-2023.07 [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).

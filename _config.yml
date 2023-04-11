@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Shi /Personal Homepaage"
+title                    : "Xu Hang /Personal Homepaage"
 title_separator          : "-"
-name                     : &name "Wei Shi"
+name                     : &name "Xu Hang"
 description              : &description "A undergraduate student from Xidian University"
-url                      : https://WeiShi1011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://XuHang0806.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WeiShi1011/WeiShi1011.github.io"
+repository               : "XuHang0806/XuHang0806.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Shi（史伟）"
-  avatar           : "self.png"
+  name             : "Xu Hang (徐航)"
+  avatar           : "tx1.png"
   bio              : "Xidian University"
   location         : "Xi'an China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WeiShi1011"
+  github           : "XuHang0806"
   google_plus      :
   keybase          :
   instagram        :

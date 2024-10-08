@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "Xu Hang /Personal Homepaage"
+title                    : "Hang Xu /Personal Homepaage"
 title_separator          : "-"
 name                     : &name "Hang Xu"
 description              : &description "A post graduate student at Wuhan University"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xu Hang (徐航)"
-  avatar           : "tx1.png"
-  bio              : "Xidian University"
-  location         : "Xi'an China"
+  name             : "Hang Xu (徐航)"
+  avatar           : "tx1.jpg"
+  bio              : "Wuhan University"
+  location         : "Wuhan China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=_wf1sGgAAAAJ"
+  email            : "mailto:190107xh@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

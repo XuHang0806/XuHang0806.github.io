@@ -19,8 +19,10 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 ## Education experience
 
+- 2019.9 ~ 2023.6  [Xidian Unversity](https://www.xidian.edu.cn/), [School of Computer Science and Technology](https://cs.xidian.edu.cn/), major in Software Engineering.
+- 2023.9 ~         [Wuhan University](https://www.whu.edu.cn/), [LIESMARS](https://liesmars.whu.edu.cn/), major in Resources and Environment.
 
-## Project Experience
+## Publications
 
 
 ## Contact

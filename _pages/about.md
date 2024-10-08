@@ -26,17 +26,21 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 \* denotes equal contributions and † denotes the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/Explicitly_Guided.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2024</div>
+      <img src='https://dongzhenwhu.github.io/publications/teasers/Explicitly_Guided.jpg' alt="sym" width="50%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion
+    Hang Xu<sup>*</sup>, **Chen Long<sup>*</sup>**, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, Zhen Cao, Zhen Dong, Bisheng Yang
 
-Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion
+    <span style="color:red">**ECCV 2024 (CCF-B)**</span>
 
-Hang Xu<sup>*</sup>, **Chen Long<sup>*</sup>**, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, Zhen Cao, Zhen Dong, Bisheng Yang
-
-<span style="color:red">**ECCV 2024 (CCF-B)**</span>
-
-[[Paper]](https://arxiv.org/pdf/2407.02887), [[Code]](https://github.com/WHU-USI3DV/EGIInet)
-</div>
+    [[Paper]](https://arxiv.org/pdf/2407.02887), [[Code]](https://github.com/WHU-USI3DV/EGIInet)
+  </div>
 </div>
 
 ## Contact

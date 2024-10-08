@@ -25,9 +25,10 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 ## Publications
 \* denotes equal contributions and † denotes the corresponding author.
 
-- Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion  [[Paper]](https://arxiv.org/pdf/2407.02887), [[Code]](https://github.com/WHU-USI3DV/EGIInet)\
+- Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion\
   **Hang Xu<sup>*</sup>**, Chen Long<sup>*</sup>, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, Zhen Cao, Zhen Dong, Bisheng Yang\
-  <span style="color:red">**ECCV 2024 (CCF-B)**</span>
+  <span style="color:red">**ECCV 2024 (CCF-B)**</span>\
+  [[Paper]](https://arxiv.org/pdf/2407.02887), [[Code]](https://github.com/WHU-USI3DV/EGIInet)
 
 ## Contact
 [Email](mailto:190107xh@whu.edu.cn)
